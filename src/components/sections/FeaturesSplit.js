@@ -52,7 +52,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Workflow Challenge Lab',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Challenge Lab apresenta a seguinte proposta: as empresas propõem  um desafio com intuito de sanar algum problema conhecido pela a organização ou até mesmo algo novo que se queira criar e os estudantes ou recém formados embarcam nesse desafio  buscando propor uma melhor solução.'
   };
 
   return (
